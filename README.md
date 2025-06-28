@@ -20,6 +20,16 @@ Este projeto simula um sistema bancário básico em Python que permite:
 - ✅ Visualizar o extrato com todas as movimentações e o saldo final
 
 ---
+## ✨ **Funcionalidades**
+| Funcionalidade        | Descrição |
+|----------------------|----------:|
+| 📋 Cadastro de clientes | Registra novos usuários no banco |
+| 🏦 Abertura de conta  | Cria contas correntes vinculadas aos clientes |
+| 💸 Depósito           | Permite realizar depósitos em conta |
+| 💰 Saque              | Realiza saques respeitando limite por operação e saldo disponível |
+| 📄 Extrato            | Exibe o histórico de transações da conta |
+
+---
 
 ## 🛠️ Tecnologias e Conceitos
 
@@ -31,6 +41,13 @@ Este projeto simula um sistema bancário básico em Python que permite:
 - Estruturas de repetição e decisão
 - Boas práticas com código limpo
 - Simulação de operações bancárias
+
+---
+## 🚀 **Como executar o projeto**
+Clone o repositório: 
+```bash
+git clone https://github.com/Lilianerefatti/sistema_bancario_python.git
+```
 
 ---
 

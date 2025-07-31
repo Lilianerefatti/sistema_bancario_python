@@ -37,7 +37,6 @@ Com isso, pude comparar os paradigmas procedural e orientado a objetos, pratican
 
 ---
 ## 📖 Conceitos aplicados
-💡 Aprendizados
 - Refatoração de código real para Programação Orientada a Objetos (POO)
 - Uso de @property, herança e métodos de classe 
 - Métodos abstratos (com uso do abc)

@@ -41,24 +41,33 @@ aplicando conceitos fundamentais de engenharia de software.
 ![VS Code](https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 
 ✅ Programação Orientada a Objetos (POO)
+
 ✅ Encapsulamento
+
 ✅ Abstração
+
 ✅ Modelagem de classes
+
 ✅ Organização de código
 
 ---
 ## 📖 Metodologia
 
 🔷 Análise do problema
+
 🔷 Modelagem das entidades do sistema
+
 🔷 Implementação das classes e métodos
+
 🔷 Testes de funcionalidades básicas
 
 ---
 ## 📚 Aprendizados
 
 🔶 Importância da modelagem antes da implementação
+
 🔶 Benefícios da POO para manutenção e escalabilidade
+
 🔶 Escrita de código mais limpo e reutilizável
 
 ---

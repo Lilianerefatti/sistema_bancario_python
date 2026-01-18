@@ -1,4 +1,4 @@
-<h1 align="center">💰 Sistema Bancário em Python</h1>
+<h1 align="center">💰 Sistema Bancário em Python Orientado a Objetos</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDU0M3d5NDE3Ym9iaGE2YjlwZmRpd3Noc2d5dWY3YmN0aWJreHBodCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NKEt9elQ5cR68/giphy.gif" width="300">
@@ -69,6 +69,12 @@ aplicando conceitos fundamentais de engenharia de software.
 🔶 Benefícios da POO para manutenção e escalabilidade
 
 🔶 Escrita de código mais limpo e reutilizável
+
+---
+## Observações
+
+Este projeto reforça a base técnica em Python e engenharia de software,
+essencial para projetos mais complexos em ciência de dados.
 
 ---
 ## 🚀 **Como executar o projeto**

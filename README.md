@@ -77,6 +77,11 @@ Este projeto reforça a base técnica em Python e engenharia de software,
 essencial para projetos mais complexos em ciência de dados.
 
 ---
+## Relevância para Ciência de Dados
+Uma base sólida em programação e modelagem de sistemas
+é essencial para construir pipelines e aplicações analíticas.
+
+---
 ## 🚀 **Como executar o projeto**
 Clone o repositório: 
 ```bash

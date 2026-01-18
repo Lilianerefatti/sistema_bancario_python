@@ -10,24 +10,27 @@
 </p>
 
 ---
+## 📋 Contexto
 
-## 📋 Descrição
-
-Este projeto simula um sistema bancário básico em Python que permite:
-
-- ✅ Depositar valores positivos
-- ✅ Sacar com limite de R$ 500,00 por operação e até 3 saques por dia
-- ✅ Visualizar o extrato com todas as movimentações e o saldo final
+Sistemas financeiros exigem organização, clareza e confiabilidade.
+Este projeto simula um sistema bancário simples com foco em boas práticas
+de programação orientada a objetos.
 
 ---
+## Objetivo
+Refatorar uma solução procedural para um modelo orientado a objetos,
+aplicando conceitos fundamentais de engenharia de software.
+
+---
+
 ## ✨ **Funcionalidades**
 | Funcionalidade        | Descrição |
 |----------------------|----------:|
 | 📋 Cadastro de clientes | Registra novos usuários no banco |
-| 🏦 Abertura de conta  | Cria contas correntes vinculadas aos clientes |
+| 🏦 Abertura de conta bancária  | Cria contas correntes vinculadas aos clientes |
 | 💸 Depósito           | Permite realizar depósitos em conta |
 | 💰 Saque              | Realiza saques respeitando limite por operação e saldo disponível |
-| 📄 Extrato            | Exibe o histórico de transações da conta |
+| 📄 Extrato          | Exibe o histórico de transações da conta |
 
 ---
 
@@ -37,10 +40,26 @@ Este projeto simula um sistema bancário básico em Python que permite:
 ![Git](https://img.shields.io/badge/Git-Version%20Control-orange?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 
-- Funções
-- Estruturas de repetição e decisão
-- Boas práticas com código limpo
-- Simulação de operações bancárias
+✅ Programação Orientada a Objetos (POO)
+✅ Encapsulamento
+✅ Abstração
+✅ Modelagem de classes
+✅ Organização de código
+
+---
+## 📖 Metodologia
+
+🔷 Análise do problema
+🔷 Modelagem das entidades do sistema
+🔷 Implementação das classes e métodos
+🔷 Testes de funcionalidades básicas
+
+---
+## 📚 Aprendizados
+
+🔶 Importância da modelagem antes da implementação
+🔶 Benefícios da POO para manutenção e escalabilidade
+🔶 Escrita de código mais limpo e reutilizável
 
 ---
 ## 🚀 **Como executar o projeto**
